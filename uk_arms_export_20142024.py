@@ -5,11 +5,12 @@ units = []
 
 # row 15 et non 8 car on mesure en TIV unité de Sipri et non en unité classique
 
-with open('trade-register.csv', newline='') as csvfile:
+with open('trade-register-uk.csv', newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar='|')
     for row in reader:
         units.append(float(row[15].replace(";", "")))
 
 unitsNp = np.array(units)
 
-print(np.sum(unitsNp))
+print(np.sum(unitsNp)*(10**6))
+

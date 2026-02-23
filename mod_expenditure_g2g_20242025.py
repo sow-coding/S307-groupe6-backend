@@ -20,8 +20,8 @@ df = df.sort_values("Amount", ascending=True)
 fig, ax = plt.subplots(figsize=(9,6))
 ax.barh(df["Country"], df["Amount"])
 
-ax.set_xlabel("Dépenses (£ million)")
-ax.set_title("Dépenses G2G d'équipements de défense du Royaume-Uni 2024–2025 (FMS exclu)")
+ax.set_xlabel("Dépenses (£ millions)")
+ax.set_title("Dépenses G2G d'équipements de défense du Royaume-Uni 2024–2025")
 
 ax.xaxis.set_major_formatter(StrMethodFormatter("{x:,.0f}"))
 

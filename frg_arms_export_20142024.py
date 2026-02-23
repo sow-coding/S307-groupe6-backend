@@ -12,4 +12,4 @@ with open('trade-register-frg.csv', newline='') as csvfile:
 
 unitsNp = np.array(units)
 
-print(np.sum(unitsNp))
+print(np.sum(unitsNp)*(10**6))
