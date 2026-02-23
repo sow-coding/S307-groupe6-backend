@@ -1,4 +1,3 @@
-Organisation,Expenditure(£ million),PercentageCompetitive(%),PercentageNon-Competitive(%),PercentageOther(%),Notes
 BAE Systems Marine Ltd,3091,0,100,0,
 AWE PLC,2213,0,100,0,[note 13]
 Devonport Royal Dockyard Ltd,1553,4,96,0,
@@ -12,25 +11,25 @@ NETMA,900,0,100,0,[note 14]
 Cabinet Office,873,0,0,100,[note 13] [note 17] [note 18]
 HM Revenue & Customs,807,0,0,100,[note 13]
 Babcock Land Defence Ltd,707,94,6,0,
-MBDA UK Ltd,659,0,98,2,[note 17]
-Leonardo UK Ltd,619,17,80,3,[note 17]
-Leidos Europe Ltd,607,100,0,0,
-Thales UK Ltd,597,6,93,1,[note 17]
+#,MBDA UK Ltd,Italie,659,0,98,2,[note 17]
+#,Leonardo UK Ltd,Italie,619,17,80,3,[note 17]
+#,Leidos Europe Ltd,États-Unis,607,100,0,0,
+#,Thales UK Ltd,France,597,6,93,1,[note 17]
 Airtanker Ltd,582,100,0,0,
-Boeing Defence UK Ltd,512,5,95,0,
+#,Boeing Defence UK Ltd,États-Unis,512,5,95,0,
 Aspire Defence Ltd,428,100,0,0,
 BAE Systems Global Combat Systems Munitions Ltd,426,0,100,0,[note 17]
 US Treasury,372,0,0,100,[note 15]
 OCCAR-EA,356,0,4,96,[note 14]
 Capita Business Services Ltd,342,99,0,0,[note 17] [note 18]
 EDF Energy Customers Ltd,311,96,0,4,[note 17]
-General Dynamics United Kingdom Ltd,288,85,15,0,[note 17]
+#,General Dynamics United Kingdom Ltd,États-Unis,288,85,15,0,[note 17]
 British Telecommunications PLC,267,65,34,1,[note 17] [note 18]
-Navantia UK Ltd,253,100,0,0,
+#,Navantia UK Ltd,Espagne,253,100,0,0,
 Babcock Integrated Technology Ltd,251,91,9,0,
 NATO Support and Procurement Agency (NSPA),245,0,0,100,[note 14]
 Rosyth Royal Dockyard Ltd,235,82,18,0,
-Fujitsu Services Ltd,235,81,3,15,[note 17]
+#,Fujitsu Services Ltd,Japon,235,81,3,15,[note 17]
 Organisation for Joint Armaments Co-Operation Executive Admin,228,0,0,100,[note 14]
 Enterprise Services Defence and Security UK Ltd,213,95,5,0,
 VINCI Construction UK Ltd,212,100,0,0,
@@ -45,9 +44,9 @@ Compass Contract Services (UK) Ltd,176,91,0,9,[note 17]
 Ascent Flight Training (Management) Ltd,176,100,0,0,
 Serco Ltd,173,27,73,0,[note 17]
 Foreign Commonwealth & Development Office,163,0,0,100,[note 13]
-Lockheed Martin UK Ltd,160,26,74,0,
+#,Lockheed Martin UK Ltd,États-Unis,160,26,74,0,
 US Department of Energy,157,0,0,100,[note 15]
-Rheinmetall BAE Systems Land Ltd,157,8,92,1,[note 17]
+#,Rheinmetall BAE Systems Land Ltd,Allemagne,157,8,92,1,[note 17]
 TTT Moneycorp Ltd,154,0,0,100,
 Turner & Townsend Project Management Ltd,153,100,0,0,
 Council of Reserve Forces' and Cadets' Associations,138,0,0,100,[note 13]
