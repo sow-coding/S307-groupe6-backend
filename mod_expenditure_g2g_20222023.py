@@ -5,7 +5,7 @@ from matplotlib.ticker import StrMethodFormatter
 data = {
     "Country": ["Canada", "Estonie", "France", "Allemagne", "Indonésie", "Pays-bas",
                 "Sri Lanka", "États-Unis"],
-    "Amount": ["42", "14", "71", "12", "7", "7", "9", "1816"]
+    "Amount": ["42", "14", "71", "12", "7", "7", "9", "2549"]
 }
 
 df = pd.DataFrame(data)

@@ -6,7 +6,7 @@ data = {
     "Country": ["États-Unis", "Norvège", "Suède", "Canada", "France",
                 "Îles Falkland", "Estonie", "Lituanie",
                 "Sri Lanka", "Allemagne", "Itale", "Gibraltar"],
-    "Amount": ["1826", "58", "27", "23", "22",
+    "Amount": ["2449", "58", "27", "23", "22",
                "15", "13", "11",
                "7", "6", "6", "5"]
 }
