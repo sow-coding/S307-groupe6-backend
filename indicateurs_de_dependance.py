@@ -20,7 +20,6 @@ def supplier_metrics(path):
     hhi = float((shares**2).sum())
     return total, len(shares), top1_supplier, top1_share, top3_share, hhi, shares
 
-# Exemple d’appel
 for name, path in {
     "UK": "uk-import-arms.csv",
     "France": "fr-import-arms.csv",
