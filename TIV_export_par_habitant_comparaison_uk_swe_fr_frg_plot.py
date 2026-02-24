@@ -7,7 +7,7 @@ tiv_par_habitant = [(11985730000/66668327), (2466030000/10251285), (27913250000/
 ax = plt.gca()
 bars = ax.bar(pays, tiv_par_habitant)
 
-plt.title("TIV d'export d'armes conventionnelles par habitant par pays (2014–2024)")
+plt.title("Exportations d’armes conventionnelles par habitant (TIV SIPRI, moyenne 2014–2024)")
 plt.ylabel("TIV SIPRI par habitant")
 plt.tight_layout()
 plt.show()
